@@ -1,4 +1,4 @@
-# EVOLVE (업데이트 예정)
+# EVOLVE (README 업데이트 예정)
 Multiplay 비대칭 FPS 게임
 ## 게임 시연 영상
 * Youtube 링크  
